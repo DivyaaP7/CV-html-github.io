@@ -1,3 +1,4 @@
+![divi2](https://user-images.githubusercontent.com/97156102/148188050-f746d26d-def4-4fdc-8579-c715339cb836.jpeg)
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/DivyaaP7/CV-html-github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
